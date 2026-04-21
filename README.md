@@ -15,16 +15,30 @@ This project demonstrates end-to-end Power BI development — from data modeling
 
 ## 🖼️ Dashboard Pages
 
-### ![Overview](Page1—Overview.png)
+### Page 1 — Overview
+![Overview](page1-overview.png)
+
 High-level snapshot of portfolio performance including revenue, expenses, net income, and properties sold. Features an interactive globe map showing revenue by country, a dynamic time switcher (Month / Quarter / Day), and a clients table with profile images.
 
-### ![Financial Analysis](Page2—Financial-Analysis.png)
+---
+
+### Page 2 — Financial Analysis
+![Financial Analysis](page2-financial-analysis.png)
+
 Deep dive into the financial structure: income by sales channel (Broker / Online / Direct), expense breakdown by type (Property Taxes / Maintenance / Renovation), and a dual-line revenue vs. expenses trend by month.
 
-### ![Executive Summary](Page3—Executive-Summary.png)
+---
+
+### Page 3 — Executive Summary
+![Executive Summary](page3-executive-summary.png)
+
 Strategic view for decision-makers. Highlights year-over-year revenue growth (+36.1% in 2023), income per property, revenue per client, and a geographic performance table with conditional formatting by profit margin. Includes client segment analysis revealing that Lawyers generate $31.6M — the top revenue segment.
 
-### ![Property Intelligence](Page4—Property-Intelligence.png)
+---
+
+### Page 4 — Property Intelligence
+![Property Intelligence](page4-property-intelligence.png)
+
 Property-level analysis covering sold vs. pending pipeline by type, average sale price by bedrooms and property type, and a treemap of price per square foot by country. Includes a ranked property table sorted by price.
 
 ---
@@ -68,13 +82,13 @@ Property-level analysis covering sold vs. pending pipeline by type, average sale
 
 ---
 
-## 📁 Repository Structure
-property-management-dashboard/
-│
-├── PropertyManagementDashboard.pbix   # Main Power BI file
-├── README.md                          # Project documentation
-└── screenshots/
-├── page1-overview.png
-├── page2-financial-analysis.png
-├── page3-executive-summary.png
-└── page4-property-intelligence.png
+## 👤 About
+
+**Ibrahim Bolad** — Data Analyst  
+📍 Saudi Arabia  
+🔗 [LinkedIn](https://www.linkedin.com/in/ibrahimbolad)  
+🐙 [GitHub](https://github.com/ibrahimbolad-analytics)
+
+---
+
+*This project is part of my data analytics portfolio. Feel free to explore or reach out for collaboration.*
