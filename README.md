@@ -15,16 +15,16 @@ This project demonstrates end-to-end Power BI development — from data modeling
 
 ## 🖼️ Dashboard Pages
 
-### Page 1 — Overview
+### ![Overview](Page1—Overview.png)
 High-level snapshot of portfolio performance including revenue, expenses, net income, and properties sold. Features an interactive globe map showing revenue by country, a dynamic time switcher (Month / Quarter / Day), and a clients table with profile images.
 
-### Page 2 — Financial Analysis
+### ![Financial Analysis](Page2—Financial-Analysis.png)
 Deep dive into the financial structure: income by sales channel (Broker / Online / Direct), expense breakdown by type (Property Taxes / Maintenance / Renovation), and a dual-line revenue vs. expenses trend by month.
 
-### Page 3 — Executive Summary
+### ![Executive Summary](Page3—Executive-Summary.png)
 Strategic view for decision-makers. Highlights year-over-year revenue growth (+36.1% in 2023), income per property, revenue per client, and a geographic performance table with conditional formatting by profit margin. Includes client segment analysis revealing that Lawyers generate $31.6M — the top revenue segment.
 
-### Page 4 — Property Intelligence
+### ![Property Intelligence](Page4—Property-Intelligence.png)
 Property-level analysis covering sold vs. pending pipeline by type, average sale price by bedrooms and property type, and a treemap of price per square foot by country. Includes a ranked property table sorted by price.
 
 ---
